@@ -1,5 +1,3 @@
-# space-char
-
 Saisir tel : <input type="text" size="15" maxlength="10" onblur="return tel(this, '.')" />
 
 <script>
